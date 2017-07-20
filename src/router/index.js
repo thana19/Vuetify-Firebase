@@ -5,7 +5,7 @@ import Meetups from '@/components/Meetup/Meetups'
 import CreateMeetups from '@/components/Meetup/CreateMeetups'
 import Profile from '@/components/User/Profile'
 import Signin from '@/components/User/Signin'
-import Test2 from '@/components/Text'
+import Signup from '@/components/User/Signup'
 
 Vue.use(Router)
 
@@ -37,9 +37,9 @@ export default new Router({
       component: Signin
     },
     {
-      path: '/test',
-      name: 'test',
-      component: Test2
+      path: '/signup',
+      name: 'Signup',
+      component: Signup
     }
   ],
   mode: 'history'

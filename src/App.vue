@@ -53,7 +53,7 @@
           { icon: 'supervisor_account', title: 'View Meetups', link: '/meetups' },
           { icon: 'room', title: 'Organize Meetups', link: '/meetups/new' },
           { icon: 'person', title: 'Profile', link: '/profile' },
-          { icon: 'face', title: 'Sign up', link: '/test' },
+          { icon: 'face', title: 'Sign up', link: '/signup' },
           { icon: 'lock_open', title: 'Sign in', link: '/signin' }
         ]
       }
