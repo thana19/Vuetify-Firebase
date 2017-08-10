@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "workshop-901ec"
+    "default": "workshop-901ec",
+    "meetups": "meetups-1635a"
   }
 }
