@@ -21,7 +21,7 @@
       class="hidden-sm-and-up"></v-toolbar-side-icon>
      <v-toolbar-title>
       <router-link to="/" tag="span" style="cursor: pointer">
-       Meetups Workshop
+       Meetups Workshop2
       </router-link>
      </v-toolbar-title>
      <v-spacer></v-spacer>
